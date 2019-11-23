@@ -4,3 +4,6 @@ header{
     width: 100%;
     border-bottom: 1px #CCCCCC;
 }
+header logo{
+    background-position: 20px 50%;
+}
