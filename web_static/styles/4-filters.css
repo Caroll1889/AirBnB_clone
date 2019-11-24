@@ -4,6 +4,9 @@
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
 }
 section.filters button{
     font-size: 18px;
