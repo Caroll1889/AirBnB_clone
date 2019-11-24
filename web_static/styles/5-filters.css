@@ -25,8 +25,11 @@ section.filters button:hover{
 .location, .amenities{
     height: 100%;
     width: 25%;
+}
+.location{
     border-right: 1px solid #DDDDDD
 }
+    
 .location, .amenities h3{
     font-weight: 600;
 }
