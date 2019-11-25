@@ -1,10 +1,9 @@
 .places{
-    text-align: left;
     width: 100%;
     display: flex;
-    font-size: 30px;
     justify-content: center;
     flex-flow: row wrap;
+    border: 0;
 }
 .places articule{
     width: 390px;
@@ -25,4 +24,3 @@
     padding-top: 20px;
     margin-bottom: 0px;
 }
-
