@@ -22,19 +22,19 @@ section.filters button{
 section.filters button:hover{
     opacity: 0.9;
 }
-.location, .amenities{
+.locations, .amenities{
     height: 100%;
     width: 25%;
     padding-left: 50px;
 }
-.location{
+.locations{
     border-right: 1px solid #DDDDDD
 }    
-.location h3, .amenities h3{
+.locations h3, .amenities h3{
     font-weight: 600;
     margin: 12px 0 5px 0;
 }
-.location h4, .amenities h4{
+.locations h4, .amenities h4{
     font-weight: 400;
     font-size: 14px;
     margin: 0 0 5px 0;
@@ -57,20 +57,20 @@ section.filters button:hover{
     margin-top: 0px;
     margin-bottom: 5px;
 }
-.location:hover > .popover{
+.locations:hover > .popover{
     display: block;
 }
 .amenities:hover > .popover{
     display: block;
 }
-.location > .popover > li{
+.locations > .popover > li{
     margin-bottom: 30px;
     margin-left: 30px;
 }
-.location > .popover > li > ul{
+.locations > .popover > li > ul{
     padding-left: 40px;
 }
-.location > .popover > li > ul > li{
+.locations > .popover > li > ul > li{
     margin-bottom: 10px;
 }
 .amenities > .popover > li{
