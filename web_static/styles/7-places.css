@@ -12,6 +12,7 @@
     border: 1px solid #FF5A5F;
     border-radius: 4px;
     justify-content: center;
+    display: flex;
 }
 .places articule h2{
     font-size: 30px;
