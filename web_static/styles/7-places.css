@@ -4,6 +4,7 @@
     display: flex;
     font-size: 30px;
     justify-content: center;
+    flex-direction: row;
 }
 .places articule{
     width: 390px;
