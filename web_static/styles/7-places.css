@@ -5,6 +5,7 @@
     font-size: 30px;
     justify-content: center;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 .places articule{
     width: 390px;
