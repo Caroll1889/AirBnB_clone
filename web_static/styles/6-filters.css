@@ -49,6 +49,7 @@ section.filters button:hover{
     margin-left: -20.4%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
+    z-index: 1;
 }
 .popover, .popover ul{
     list-style-type: none;
