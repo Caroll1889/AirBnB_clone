@@ -1,5 +1,5 @@
 .places{
-    width: 10%;
+    width: 100%;
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
@@ -34,6 +34,8 @@
     min-width: 60px;
     font-size: 30px;
     height: 60px;
+    right: 20px;
+    top: 10px;
     position: absolute;
     align-items: center;
     display: flex;
