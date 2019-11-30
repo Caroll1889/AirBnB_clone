@@ -64,21 +64,21 @@
     margin-top: auto;
     margin-bottom: auto;
 }
-.icon_group{
+.group{
     height: 50%;
     width: 50%;
     margin-left: auto;
     margin-bottom: auto;
     background: url("../images/icon_group.png") no-repeat center;
 }
-.icon_bed{
+.bed{
     height: 50%;
     width: 50%;
     margin-left: auto;
     margin-bottom: auto;
     background: url("../images/icon_bed.png") no-repeat center;
 }
-.icon_bath{
+.bath{
     height: 50%;
     width: 50%;
     margin-left: auto;
