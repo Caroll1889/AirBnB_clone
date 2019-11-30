@@ -67,24 +67,24 @@
     margin-bottom: auto;
 }
 .group{
-    height: 50%;
-    width: 50%;
-    margin-left: auto;
-    margin-bottom: auto;
+    height: 40px;
+    width: 100px;
+    margin-left: 0;
+    margin-bottom: 0;
     background: url("../images/icon_group.png") no-repeat center;
 }
 .bed{
-    height: 50%;
-    width: 50%;
-    margin-left: auto;
-    margin-bottom: auto;
+    height: 40px;
+    width: 100px;
+    margin-left: 0;
+    margin-bottom: 0;
     background: url("../images/icon_bed.png") no-repeat center;
 }
 .bath{
-    height: 50%;
-    width: 50%;
-    margin-left: auto;
-    margin-bottom: auto;
+    height: 40px;
+    width: 100px;
+    margin-left: 0;
+    margin-bottom: 0;
     background: url("../images/icon_bath.png") no-repeat center;
 }
 .user > p{
